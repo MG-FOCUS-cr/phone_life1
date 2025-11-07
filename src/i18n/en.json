@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "accessories": "Accessories",
+    "about": "About"
+  },
+  "booking": {
+    "title": "Phone, Tablet & Computer Repair",
+    "step1": "Device Selection",
+    "step2": "Repair Type",
+    "step3": "Appointment",
+    "step4": "Service Type",
+    "step5": "Customer Information",
+    "deviceType": "Device Type",
+    "brand": "Brand",
+    "model": "Model",
+    "repairTypes": {
+      "screen": "Screen Repair",
+      "battery": "Battery Replacement",
+      "camera": "Camera Repair",
+      "charging": "Charging Port",
+      "back": "Back Cover",
+      "water": "Water Damage",
+      "software": "Software Issues"
+    },
+    "serviceTypes": {
+      "classic": "Classic Appointment",
+      "vip": "VIP Appointment (+€20 - Priority service)"
+    },
+    "total": "Total",
+    "bookAndPay": "Book & Pay"
+  },
+  "products": {
+    "protection": "Protection & Security",
+    "popular": "Popular Accessories",
+    "addToCart": "Add to Cart"
+  },
+  "cart": {
+    "title": "Cart",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "deliveryOptions": {
+      "standard": "Standard Delivery - €5",
+      "express": "Express Delivery - €12",
+      "pickup": "In-store Pickup - Free"
+    },
+    "checkout": "Proceed to Checkout"
+  }
+}

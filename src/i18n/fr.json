@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "accessories": "Accessoires",
+    "about": "À Propos"
+  },
+  "booking": {
+    "title": "Réparation de téléphones, tablettes et ordinateurs",
+    "step1": "Sélection de l'appareil",
+    "step2": "Type de réparation",
+    "step3": "Rendez-vous",
+    "step4": "Type de service",
+    "step5": "Informations client",
+    "deviceType": "Type d'appareil",
+    "brand": "Marque",
+    "model": "Modèle",
+    "repairTypes": {
+      "screen": "Réparation écran",
+      "battery": "Remplacement batterie",
+      "camera": "Réparation caméra",
+      "charging": "Port de charge",
+      "back": "Coque arrière",
+      "water": "Dégât des eaux",
+      "software": "Problèmes logiciels"
+    },
+    "serviceTypes": {
+      "classic": "Rendez-vous classique",
+      "vip": "Rendez-vous VIP (+20€ - Service prioritaire)"
+    },
+    "total": "Total",
+    "bookAndPay": "Réserver et payer"
+  },
+  "products": {
+    "protection": "Protection & Sécurité",
+    "popular": "Accessoires Populaires",
+    "addToCart": "Ajouter au panier"
+  },
+  "cart": {
+    "title": "Panier",
+    "subtotal": "Sous-total",
+    "delivery": "Livraison",
+    "deliveryOptions": {
+      "standard": "Livraison standard - 5€",
+      "express": "Livraison express - 12€",
+      "pickup": "Retrait en magasin - Gratuit"
+    },
+    "checkout": "Procéder au paiement"
+  }
+}
